@@ -1,0 +1,2 @@
+# cryptos
+tea testnet
